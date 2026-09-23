@@ -195,3 +195,10 @@ Selain itu, nilai ujian, tugas, dan kehadiran harus berada pada rentang 0 sampai
 Pada pertemuan ini dipelajari penggunaan `if-elif-else` untuk membuat beberapa kondisi, validasi tipe data, validasi rentang, serta validasi domain.
 
 Pengujian dilakukan pada setiap cabang kondisi, termasuk nilai batas dan input yang tidak valid, agar program dapat berjalan sesuai dengan aturan yang telah ditentukan.
+## Catatan Pengujian
+
+Pengujian dilakukan dengan mencoba setiap kondisi pada program,
+termasuk nilai batas, nilai di luar rentang, dan input yang bukan angka.
+
+Pengujian dilakukan untuk memastikan setiap percabangan
+if-elif-else menghasilkan keluaran yang sesuai.
