@@ -1,3 +1,6 @@
+# Praktik 1 - Validasi dan Klasifikasi Nilai
+# Program menghitung nilai akhir dan menentukan predikat nilai.
+
 print("Validasi dan Klasifikasi Nilai Akhir")
 
 teks_ujian = input("Nilai ujian (0-100): ").strip()
